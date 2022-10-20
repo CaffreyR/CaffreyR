@@ -1,16 +1,20 @@
-### Hi there 👋
+### Run you clever boy and remember👋
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
-<!--
-**CaffreyR/CaffreyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Guorun(Caffrey) .
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍒  A boy love 3D&NLP.
+- 📍  Shanghai.
+- 👨‍🎓  Tongji University.
+- 📧  [caffreygr@gmail.com](mailto:caffreygr@gmail.com).
+<br/>
+<br/>
+
+
+<br/>
+<br/>
+
+# About My Github
+![CaffreyR's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaffreyR&show_icons=true&theme=tokyonight)
