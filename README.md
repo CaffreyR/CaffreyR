@@ -5,9 +5,9 @@
 
 <br/>
 
-- 🍒  A boy love 3D&NLP.
-- 📍  Shanghai.
-- 👨‍🎓  Tongji University.
+- 🍒  A boy love Multimodal, NLP and CV.
+- 📍  London.
+- 👨‍🎓  Imperial College London.
 - 📧  [caffreygr@gmail.com](mailto:caffreygr@gmail.com).
 <br/>
 <br/>
